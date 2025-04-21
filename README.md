@@ -65,11 +65,8 @@ Execute the program using runserver command.
 </head>
 <body>
 
-    <!-- New logo line as requested -->
+    
     <img src="/static/logo.png" height="100" width="540" alt="Logo">
-
-    <!-- Optional: you can keep this old logo or remove it -->
-    <!-- <img src="logo.png"> -->
 
     <div class="center-text">
         <p><strong>SLOT TIME TABLE - GEETHU (212224040089)</strong></p>
